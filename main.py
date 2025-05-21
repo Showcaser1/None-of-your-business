@@ -599,4 +599,4 @@ async def slash_commands_help(interaction: discord.Interaction):
 # Run the bot with your token
 if __name__ == "__main__":
     # IMPORTANT: Replace this with your bot token or use environment variables
-    bot.run("MTM3NDQzMDE0MTExNTI3MzI3Nw.GSHhaI.bLqjW-wtkN0QWnMuAOc4eNK5g27fQGYPBmTBLM")
+    bot.run("MTM3NDQzMDE0MTExNTI3MzI3Nw.GpLeI8.JRkaFEnwAPkxwaeL3NQHAexIRlwe-yZxESfflE")
